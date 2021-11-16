@@ -21,4 +21,4 @@ yarn start
 ```
 
 ## Demo
-![Demonstration of the Material UI Boilerplate](https://github.com/BrettFX/material-ui-boilerplate/blob/master/public/material-ui-boilerplate-demo.gif?raw=true)
+![Demonstration of the Material UI Boilerplate](https://github.com/BrettFX/material-ui-boilerplate/blob/featured/public/material-ui-boilerplate-demo.gif?raw=true)
